@@ -625,6 +625,9 @@ font-size: 3.2rem;
 #contact h3{
     margin-bottom: 1rem;
 }
+#contact .contact-txt li{
+    padding: .5rem;
+}
 .footer .social{
     padding: 10rem 0;
 }
