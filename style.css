@@ -546,7 +546,6 @@ width: 50%;
 .advantages-points{
     display:grid;
     grid-template-columns: repeat(auto-fit,minmax(400px,1fr));
-
 }
 .card.point{
     display: flex;
