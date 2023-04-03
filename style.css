@@ -197,7 +197,7 @@ nav ul .bar{
 
 .go-down{
     position: absolute;
-    bottom: -150px;
+    bottom: -12rem;
     left: 50%;
     transform: translateX(-50%);
 }
@@ -214,7 +214,7 @@ nav ul .bar{
 }
 .fa-chevron-down{
    position: absolute;
-   top:35px;
+   top:3.5rem;
    right: 50%;
    transform: translateX(50%);
    animation: goDown .5s  infinite;
@@ -222,7 +222,7 @@ nav ul .bar{
 @keyframes goDown {
      0%{}
      100%{
-        top:55px
+        top:5.5rem
      }
 }
 /* ! Pricing Section */

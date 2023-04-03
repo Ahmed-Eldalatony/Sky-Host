@@ -55,6 +55,9 @@ header ul li {
   100%{
     right: -700px;
   }
+}
+.advantages-points{
+padding: 15rem;
 }}
 
 
@@ -87,7 +90,20 @@ padding: 0 25rem;
   font-size: 25%;
 
 }
+.right-part h1{
+  font-size: 12rem;
+}
+.right-part p{
+  font-size: 3rem;
 
+} 
+.hero-section li i{
+font-size: 2.7rem;
+border-radius: 50%;
+}
+/* .hero-section li:first-child{
+  height: 3rem;
+} */
 
 .hero-section{
   flex-direction: column;
