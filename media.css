@@ -19,7 +19,8 @@ header .menu-icon {
 header .menu-icon i{
   font-size: 5rem;
 }
-header ul{
+
+  header ul{
   text-align:start;
   border: solid #eee;
   padding: 4em;
@@ -88,7 +89,9 @@ padding: 0 25rem;
 @media(max-width:520px){
 :root{
   font-size: 25%;
-
+}
+  .card p{
+  width:55ch;
 }
 .right-part h1{
   font-size: 12rem;
